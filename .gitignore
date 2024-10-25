@@ -1,0 +1,9 @@
+# Ignorar a pasta do Visual Studio
+.vs/
+# Ignorar arquivos de build
+bin/
+obj/
+# Ignorar arquivos de configuração do usuário
+*.user
+*.suo
+*.sln.ide
